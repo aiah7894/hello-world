@@ -1,6 +1,6 @@
  <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>Registration form for Hogwarts</h1>
     <p>New Form</p>
     <hr>
 
